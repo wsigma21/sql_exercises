@@ -1,0 +1,2 @@
+# utf8mb4でないと文字化けする
+mysql -u root -p -h localhost worldcup2014 < .\worldcup2014_utf8mb4.sql
